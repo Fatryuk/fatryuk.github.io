@@ -22,8 +22,27 @@ body {
 }
 
 h1 {
-    color: #333;
+    color: red;
+    font-size: 180px;
 }
+
+
+h2 {
+    color: green;
+    font-size: 100px;
+}
+
+
+h3 {
+    color: yellow;
+    font-size: 190px;
+}
+
+h4 {
+    color: cyan;
+    font-size: 50px;
+}
+
 
 /* 3. Modèle de boîte */
 .box {
